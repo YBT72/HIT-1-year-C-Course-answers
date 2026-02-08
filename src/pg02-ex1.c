@@ -1,5 +1,5 @@
-#include<stdio.h>   // For printf output and scanf input functions
-#include<math.h>    // For sqrt mathematical function
+#include <stdio.h>   // For printf output and scanf input functions
+#include <math.h>    // For sqrt mathematical function
 
 int main() {
 

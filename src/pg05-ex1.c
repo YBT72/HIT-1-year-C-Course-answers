@@ -1,5 +1,5 @@
-#include<stdio.h>   // For printf output and scanf input functions
-#include<math.h>    // For pow, cos, fabs mathematical functions and M_PI constant
+#include <stdio.h>   // For printf output and scanf input functions
+#include <math.h>    // For pow, cos, fabs mathematical functions and M_PI constant
 
 // Function to calculate factorial using recursion.
 double factorial(int n) {

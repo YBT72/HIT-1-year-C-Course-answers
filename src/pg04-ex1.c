@@ -1,4 +1,4 @@
-#include<stdio.h>   // For printf output and scanf input functions
+#include <stdio.h>   // For printf output and scanf input functions
 
 // Factorial functions
 // Recursive factorial

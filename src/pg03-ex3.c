@@ -1,4 +1,4 @@
-#include<stdio.h>   // For printf output and scanf input functions
+#include <stdio.h>   // For printf output and scanf input functions
 
 /************************************************************************* 
  * Program that calculates sum of fractions from 1/2 to N/(N+1).         *
